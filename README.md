@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @juanvazquezm
 - 👀 I’m interested in digital marketing and technology
 - 🌱 I’m currently learning front end 
-- 💞️ I’m looking to collaborate on some proyect to start
+- 💞️ I’m looking to collaborate on some project to start
 
 
 <!---
